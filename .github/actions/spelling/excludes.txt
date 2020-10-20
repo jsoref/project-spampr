@@ -1,0 +1,6 @@
+^\.github/
+^CODE_OF_CONDUCT\.md$
+^LICENSE$
+ignore$
+\.pem$
+^package(?:-lock|)\.json$
